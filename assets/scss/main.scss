@@ -1,0 +1,54 @@
+html {
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: medium;
+  color: $noir;
+
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: medium;
+  color: $noir;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: medium;
+  color: $noir;
+}
+
+p {
+  font-size: 20px;
+  color: $noir;
+}

@@ -1,0 +1,80 @@
+{
+  "Actualites": {
+    "description": "Auto imported from components/global/actualites.vue"
+  },
+  "LazyActualites": {
+    "description": "Auto imported from components/global/actualites.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/global/card.vue"
+  },
+  "LazyCard": {
+    "description": "Auto imported from components/global/card.vue"
+  },
+  "Cards": {
+    "description": "Auto imported from components/global/cards.vue"
+  },
+  "LazyCards": {
+    "description": "Auto imported from components/global/cards.vue"
+  },
+  "Commentaire": {
+    "description": "Auto imported from components/global/commentaire.vue"
+  },
+  "LazyCommentaire": {
+    "description": "Auto imported from components/global/commentaire.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/global/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/global/Footer.vue"
+  },
+  "GradientBtn": {
+    "description": "Auto imported from components/global/GradientBtn.vue"
+  },
+  "LazyGradientBtn": {
+    "description": "Auto imported from components/global/GradientBtn.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/global/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/global/Header.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/global/menu.vue"
+  },
+  "LazyMenu": {
+    "description": "Auto imported from components/global/menu.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/global/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/global/Navbar.vue"
+  },
+  "SearchBar": {
+    "description": "Auto imported from components/global/search-bar.vue"
+  },
+  "LazySearchBar": {
+    "description": "Auto imported from components/global/search-bar.vue"
+  },
+  "Villes": {
+    "description": "Auto imported from components/global/villes.vue"
+  },
+  "LazyVilles": {
+    "description": "Auto imported from components/global/villes.vue"
+  },
+  "SocialNetwork": {
+    "description": "Auto imported from components/global/social/SocialNetwork.vue"
+  },
+  "LazySocialNetwork": {
+    "description": "Auto imported from components/global/social/SocialNetwork.vue"
+  },
+  "SocialShare": {
+    "description": "Auto imported from components/global/social/socialShare.vue"
+  },
+  "LazySocialShare": {
+    "description": "Auto imported from components/global/social/socialShare.vue"
+  }
+}

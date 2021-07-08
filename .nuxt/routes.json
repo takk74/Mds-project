@@ -1,0 +1,79 @@
+[
+  {
+    "name": "angers",
+    "path": "/angers",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\angers.vue",
+    "chunkName": "pages/angers",
+    "_name": "_39434a40"
+  },
+  {
+    "name": "annecy",
+    "path": "/annecy",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\annecy.vue",
+    "chunkName": "pages/annecy",
+    "_name": "_11b13fe4"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_d3288448"
+  },
+  {
+    "name": "create-projet",
+    "path": "/create-projet",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\create-projet.vue",
+    "chunkName": "pages/create-projet",
+    "_name": "_6fe55af9"
+  },
+  {
+    "name": "nantes",
+    "path": "/nantes",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\nantes.vue",
+    "chunkName": "pages/nantes",
+    "_name": "_1809ceca"
+  },
+  {
+    "name": "paris",
+    "path": "/paris",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\paris.vue",
+    "chunkName": "pages/paris",
+    "_name": "_e26d0272"
+  },
+  {
+    "name": "profil",
+    "path": "/profil",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\profil.vue",
+    "chunkName": "pages/profil",
+    "_name": "_3ed40730"
+  },
+  {
+    "name": "projet",
+    "path": "/projet",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\projet.vue",
+    "chunkName": "pages/projet",
+    "_name": "_0c0a4dc0"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\settings.vue",
+    "chunkName": "pages/settings",
+    "_name": "_0d5a9297"
+  },
+  {
+    "name": "sqy",
+    "path": "/sqy",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\sqy.vue",
+    "chunkName": "pages/sqy",
+    "_name": "_324e3417"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\My creative week B2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4794dae4"
+  }
+]
